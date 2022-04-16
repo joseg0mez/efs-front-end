@@ -275,6 +275,9 @@ import router from '../router'
         router.push('/investment-list');
       },
 
+      viewStocks() {
+        router.push('/stock-list');
+      },
 
 
       getUser() {
